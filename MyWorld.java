@@ -74,6 +74,7 @@ public class MyWorld extends World
         }
 
         addObject(new Person(),25,575);
+        addObject(new bomb(),25,300);
 
     }
   
